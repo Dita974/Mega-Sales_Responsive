@@ -1,1 +1,1 @@
-# Mega-Sales_Responsive
+# Mega-Sales
